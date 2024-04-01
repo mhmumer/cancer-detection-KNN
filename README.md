@@ -7,5 +7,9 @@ https://www.kaggle.com/datasets/erdemtaha/cancer-data/data
 
 ## Run the code on your machine: 
 
+```
+git clone https://github.com/mhmumer/cancer-detection-KNN.git
+```
+
 
 
