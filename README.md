@@ -5,6 +5,9 @@
 ## Access the Dataset on Kaggle:
 https://www.kaggle.com/datasets/erdemtaha/cancer-data/data
 
+## View code on Kaggle:
+https://www.kaggle.com/code/muhammadumersiraj/notebookf059c77df7
+
 ## Run the code on your machine: 
 
 ```
