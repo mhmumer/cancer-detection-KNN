@@ -1,3 +1,6 @@
+![0](https://github.com/mhmumer/cancer-detection-KNN/assets/74130137/e0bf55a0-3677-422e-bb72-3a7cd9ab7a8f)
+
+
 # K Nearest Neighbours ( Machine Learning Algorithm )
 
 ##### KNN is a supervised machine learning algorithm that excels at classification and regression tasks. The KNN algorithm works based on the idea that similar things are closer to each other.
